@@ -80,7 +80,7 @@ const Hero = ({ onNavigate, profileImage, onProfileImageChange }: HeroProps) => 
             
             <div className="mb-6 sm:mb-8">
               <h2 className="font-sans-serif text-base sm:text-lg md:text-xl font-semibold mb-2 sm:mb-3">
-                A Bit About Me
+                Profile Snapshot
               </h2>
               <p className="text-black text-xs sm:text-sm leading-relaxed max-w-lg mx-auto lg:mx-0">
                 Seasoned professional with 8+ years of experience across Tech Product Development, 
