@@ -68,7 +68,7 @@ const Resume = () => {
                 style={{ animationDelay: `${index * 0.1}s` }}
               >
                 <div className="timeline-date md:pt-1">
-                  {exp.period}
+                  <h4>{exp.period}</h4>
                 </div>
                 <div className="hidden md:block" />
                 <div>
@@ -91,7 +91,7 @@ const Resume = () => {
                 className="timeline-item border-b border-border"
               >
                 <div className="timeline-date md:pt-1">
-                  {edu.period}
+                <h4>{edu.period}</h4>
                 </div>
                 <div className="hidden md:block" />
                 <div>

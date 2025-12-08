@@ -31,7 +31,7 @@ const Header = ({ activeSection, onNavigate, viewMode, onViewModeChange }: Heade
             <div className="w-2.5 h-2.5 sm:w-3 sm:h-3 rounded-full bg-accent" />
             <div className="flex flex-col sm:flex-row sm:items-baseline sm:gap-2">
               <span className="font-serif text-sm sm:text-lg font-semibold">James Sammy</span>
-              <span className="text-muted-foreground text-xs sm:text-sm hidden sm:inline">Product Manager</span>
+              <span className="text-muted-foreground text-xs sm:text-sm hidden sm:inline">Tech Product Manager</span>
             </div>
           </div>
 

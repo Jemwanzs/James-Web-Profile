@@ -74,15 +74,15 @@ const Hero = ({ onNavigate, profileImage, onProfileImageChange }: HeroProps) => 
 
           {/* Content */}
           <div className="order-2 lg:order-2 text-center lg:text-left">
-            <h1 className="font-serif text-4xl sm:text-5xl md:text-6xl lg:text-8xl font-bold mb-4 sm:mb-6 animate-fade-in">
+            <h1 className="font-serif text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-bold mb-4 sm:mb-6 animate-fade-in">
               Hello
             </h1>
             
             <div className="mb-6 sm:mb-8">
-              <h2 className="font-serif text-lg sm:text-xl md:text-2xl font-semibold mb-2 sm:mb-3">
+              <h2 className="font-sans-serif text-base sm:text-lg md:text-xl font-semibold mb-2 sm:mb-3">
                 A Bit About Me
               </h2>
-              <p className="text-muted-foreground text-sm sm:text-base leading-relaxed max-w-lg mx-auto lg:mx-0">
+              <p className="text-black text-xs sm:text-sm leading-relaxed max-w-lg mx-auto lg:mx-0">
                 Seasoned professional with 8+ years of experience across Tech Product Development, 
                 Payroll & Tax Compliance, Credit & Risk Management, Sales Engineering, and Customer 
                 Experience Management. Adept at guiding tech solutions from concept to execution.
