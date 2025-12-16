@@ -124,7 +124,7 @@ const Resume = () => {
 
   const certifications = [
     {
-      period: '—',
+      period: 'Aug-2020',
       title: 'Certificate of Participation',
       institution: 'KUSCCO LTD – WaterBuck Hotel, Nakuru (Kenya)',
       description: [
@@ -133,7 +133,7 @@ const Resume = () => {
       ],
     },
     {
-      period: '—',
+      period: 'Nov-2019',
       title: 'Certificate of Participation',
       institution: 'KUSCCO LTD – Hilton Hotel, Nairobi',
       description: [
@@ -142,7 +142,7 @@ const Resume = () => {
       ],
     },
     {
-      period: '—',
+      period: 'Nov-2018',
       title: 'Certificate of Participation',
       institution: 'KUSCCO LTD – Hilton Hotel, Nairobi',
       description: [
@@ -151,7 +151,7 @@ const Resume = () => {
       ],
     },
     {
-      period: '—',
+      period: 'Nov-2014',
       title: 'Certificate of Participation',
       institution: 'JKUASA – TASSMU Product Design Festival / CT Clinic',
       description: [
@@ -159,7 +159,7 @@ const Resume = () => {
       ],
     },
     {
-      period: '—',
+      period: 'Oct-2013',
       title: 'Certificate of Participation',
       institution: 'JKUASA – JKUAT University',
       description: [
@@ -169,7 +169,7 @@ const Resume = () => {
       ],
     },
     {
-      period: '—',
+      period: 'Oct-2013',
       title: 'Certificate of Participation',
       institution: 'Tropical Institute for Sustainable Development (TISD)',
       description: [
@@ -178,7 +178,7 @@ const Resume = () => {
       ],
     },
     {
-      period: '—',
+      period: 'Feb-2013',
       title: 'Certificate of Participation',
       institution: 'TASSMU – Maseno University',
       description: [
