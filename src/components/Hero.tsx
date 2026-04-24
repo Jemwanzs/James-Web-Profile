@@ -1,5 +1,5 @@
 import { useRef } from 'react';
-import { Camera } from 'lucide-react';
+/*import { Camera } from 'lucide-react';*/
 
 interface HeroProps {
   onNavigate: (section: string) => void;
