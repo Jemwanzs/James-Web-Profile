@@ -104,7 +104,7 @@ const Resume = () => {
       title: 'Kenya Certificate of Secondary Education (KCSE)',
       institution: 'Kikumini School',
       description: [
-        'Mean Grade: B+',
+        'Mean Grade: Achieved with Excellence',
         'Strong performance across all science subjects',
         'Developed early interest in analytical and problem-solving disciplines',
       ],

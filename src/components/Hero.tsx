@@ -31,7 +31,7 @@ const Hero = ({ onNavigate, profileImage, onProfileImageChange }: HeroProps) => 
       <div className="container mx-auto">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 sm:gap-12 lg:gap-16 items-center">
           {/* Profile Image */}
-          <div className="flex justify-center lg:justify-end order-1 lg:order-1">
+          {/*<div className="flex justify-center lg:justify-end order-1 lg:order-1">
             <div className="relative group">
               <div 
                 className="profile-image-container w-48 h-48 sm:w-64 sm:h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden bg-secondary shadow-xl cursor-pointer"
@@ -58,10 +58,10 @@ const Hero = ({ onNavigate, profileImage, onProfileImageChange }: HeroProps) => 
                 </div>
               </div>
               
-              {/* Decorative ring */}
+              
               <div className="absolute -inset-2 rounded-full border-2 border-border/50 -z-10" />
               
-              {/* Hidden file input */}
+              
               <input
                 ref={fileInputRef}
                 type="file"
@@ -70,7 +70,28 @@ const Hero = ({ onNavigate, profileImage, onProfileImageChange }: HeroProps) => 
                 className="hidden"
               />
             </div>
+          </div>*/}
+          {/* Profile Image */}
+          {/* Profile Image */}
+          <div className="flex justify-center lg:justify-end order-1 lg:order-1">
+            <div className="relative">
+              
+              <div className="profile-image-container w-48 h-48 sm:w-64 sm:h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden bg-secondary shadow-xl">
+                
+                <img 
+                  src="/JamesProfile.jpg" 
+                  alt="James Sammy"
+                  className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
+                />
+
+              </div>
+
+              {/* Decorative ring */}
+              <div className="absolute -inset-2 rounded-full border-2 border-border/50 -z-10" />
+
+            </div>
           </div>
+
 
           {/* Content */}
           <div className="order-2 lg:order-2 text-center lg:text-left">
