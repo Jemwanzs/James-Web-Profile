@@ -49,7 +49,7 @@ const Hero = ({ onNavigate, profileImage, onProfileImageChange }: HeroProps) => 
                   </div>
                 )}
                 
-                {/* Upload overlay */}
+                
                 <div className="absolute inset-0 bg-foreground/50 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center rounded-full">
                   <div className="text-background flex flex-col items-center gap-2">
                     <Camera className="w-8 h-8 sm:w-10 sm:h-10" />
