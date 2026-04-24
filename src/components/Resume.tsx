@@ -54,7 +54,7 @@ const Resume = () => {
       ],
     },
 
-    {
+    /*{
       period: 'May–August (2013–2015, annually)',
       title: 'BOM Teacher',
       company: 'Mii Secondary School',
@@ -63,9 +63,9 @@ const Resume = () => {
         'Planned and delivered structured lessons aligned with curriculum requirements.',
         'Developed assessments and learning activities to reinforce understanding and academic achievement.'
       ],
-    },
+    },*/
 
-    {
+    /*{
       period: '2012: (Feb - August: 2012)',
       title: 'Computer Studies Tutor',
       company: 'Elijah School of Computing',
@@ -75,7 +75,7 @@ const Resume = () => {
         'Conducted practical workshops on MS Publisher and PowerPoint.',
         'Developed hands-on learning materials to reinforce technical proficiency.'
       ],
-    },
+    },*/
   ];
   
   const education = [
